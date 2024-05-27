@@ -1,0 +1,125 @@
+<subtitle>
+    <objective>Eliminate all enemy targets.</objective>
+    
+    <!-- Start -->
+    <M_A0_1>Initiate operation.</M_A0_1>
+    <M_A0_2>Keep low to the water on your approach, you'll be shot down if you fly high.</M_A0_2>
+    <M_A0_3>Get to the enemy fortress. Once you close, increase altitude.</M_A0_3>
+    
+    <!-- Phase 1 -->
+    <M_A1_1>Those who above will draw the enemy's fire. Maintain the low altitude approach.</M_A1_1>
+    <M_F1_2>Attention all sections. Unknown aircraft had been spotted. Engage upon confirmation!</M_F1_2>
+    
+    <M_A1_3>You've passed the first bridge.</M_A1_3>
+    <M_A1_4>You've passed the second bridge.</M_A1_4>
+
+    <!-- Altitude Restriction -->
+    <M_A1_W>Fly at a low altitude.</M_A1_W>
+
+    <M_A1_XA>You've been spotted by enemy forces!</M_A1_XA>
+    <M_F1_XA>Enemy plane's been spotted on radar! All units, prepare to engage!</M_F1_XA>
+
+    
+    <M_F1_N1>There is no time. Operate it manually. Skip sequences 3, 4, and 5.</M_F1_N1>
+    <M_F1_N2>Just relax. It's not enough to bring down this building.</M_F1_N2>
+
+    <!-- Timeout -->
+    <M_F1_XT>Lower the defence barriers. I don't care for close in!</M_F1_XT>
+
+    <A3_T2>2 minutes left.</A3_T2>
+    <A3_T1>1 minute left!</A3_T1>
+
+    <!-- After flying low altitude -->
+    <M_B1_5>Altitude restrictions canceled.</M_B1_5>
+    <M_A1_6>Take out before barriers close up and cover their facilities.</M_A1_6>
+
+    <!-- Special Weapon use -->
+    <M_A1_W1>Weapon's released!</M_A1_W1>
+    <M_A1_W2>Launched! Activate guidance!</M_A1_W2>
+
+    <!-- Miss: Play M1 OR M2, then play XM -->
+    <M_A1_M1>Missed!</M_A1_M1>
+    <M_A1_M2>Missed the target!</M_A1_M2>
+    <M_A1_XM>No special weapons fire remaining. Operation failed. Return to base.</M_A1_XM>
+    
+
+    <!-- Hit: Play one of these -->
+    <M_A1_F1>Enemy facility destroyed.</M_A1_F1>
+    <M_A1_F2>Enemy facility destroyed.</M_A1_F2>
+    <M_A1_F3>Target destroyed.</M_A1_F3>
+    <M_A1_F4>Target destroyed.</M_A1_F4>
+
+
+    <!-- Phase 2 -->
+    <M_A2_1>Missile! Break!</M_A2_1>
+    <M_G2_2>Fire away from all you got!</M_G2_2>
+    <M_A2_3>Warning! Warning! Enemy reinforcements are approaching!</M_A2_3>
+    <M_E12_4>All planes, fly as usual. Fly by my orders.</M_E12_4>
+    <M_A2_5>Your mission is to take out the enemy fighters.</M_A2_5>
+    <M_A2_6>Looks like they've got a stealth fighter. Rely on your instincts.</M_A2_6>
+    <M_E12_7>Whoever breaks formation will be the first shot down. Follow me, if you want to survive.</M_E12_7>
+
+    
+    <M_A2_D1>First plane down.</M_A2_D1>
+    <M_A2_D2>Second plane down.</M_A2_D2>
+    <M_A2_D3>Third plane down.</M_A2_D3>
+    <M_A2_D4>Fourth plane down.</M_A2_D4>
+    <M_A2_D5>Fifth plane down.</M_A2_D5>
+
+    <M_A2_L>Just one target remaining.</M_A2_L>
+
+    <!-- Mission success -->
+    <M_AC_1>All targets destroyed. Mission Accomplished.</M_AC_1>
+    <M_AC_2>Confirmed destruction of all mission targets. The mission was successful!</M_AC_2>
+    <M_AC_3>Operation complete. Return to base.</M_AC_3>
+
+    <!-- Mission fail -->
+    <M_AX_1>Operation failed. Return to base.</M_AX_1>
+    <M_AX_2>Operation failed. Return to base.</M_AX_2>
+
+
+    <!-- Enemy squadron voices -->
+    <M_E1_1>Don't be overwhelmed by the enemy's moves!</M_E1_1>
+    <M_E1_X>I've been hit… This can't be…!</M_E1_X>
+    <M_E1_F1>Fox two!</M_E1_F1>
+    <M_E1_F2>Missile launched!</M_E1_F2>
+
+
+    <M_E2_1>There's no need to follow on enemy for too long. Wait for your next chance!</M_E2_1>
+    <M_E2_2>All planes, stay focused! Maintain enough distance to fire your missiles!</M_E2_2>
+    <M_E2_X>That pilot's unbelievable. He did all this with those limited contacts…</M_E2_X>
+    <M_E2_F1>Fox two!</M_E2_F1>
+    <M_E2_F2>Fox two!</M_E2_F2>
+    <M_E2_F3>Missile launched!</M_E2_F3>
+    
+    
+    <M_E3_1>We won't retreat. Are we getting reinforcements?</M_E3_1>
+    <M_E3_2>Let's put an end to this pointless battle.</M_E3_2>
+    <M_E3_3>Don't be afraid! Fight with pride! We are the righteous ones!</M_E3_3>
+    <M_E3_X>My plane's breaking up! Ejecting!</M_E3_X>
+    <M_E3_F1>I've got you! You're not getting away!</M_E3_F1>
+    <M_E3_F2>Fox two!</M_E3_F2>
+    <M_E3_F3>Fox two!</M_E3_F3>
+    
+
+    <M_E4_1>Focus on your own flying.</M_E4_1>
+    <M_E4_2>This battle is getting out of hand. Stay alert at all time.</M_E4_2>
+    <M_E4_X>I wasn't able to cover them…</M_E4_X>
+    <M_E4_F1>Locked on!</M_E4_F1>
+    <M_E4_F2>Fox two!</M_E4_F2>
+    <M_E4_F3>Missile launched!</M_E4_F3>
+    
+
+    <M_E5_1>It's a shame there's no audience. This is going to be a quite show.</M_E5_1>
+    <M_E5_2>I'll end this fight in one hit.</M_E5_2>
+    <M_E5_3>Not bad. His movement is pretty good.</M_E5_3>
+    <M_E5_X>I think my tail's been hit! I can't keep her stable!</M_E5_X>
+    <M_E5_F1>Enemy target acquired.</M_E5_F1>
+    <M_E5_F2>Fox two!</M_E5_F2>
+    <M_E5_F3>Fox two! Fox two!</M_E5_F3>
+
+    <TIP_1>Keep altitude below 900m.</TIP_1>
+    <TIP_2>Press and hold the fire button
+to set the bomb guidance location.</TIP_2>
+
+</subtitle>

@@ -1,0 +1,449 @@
+{
+    "scripts": [
+        {
+            "subtitleKey": "M_A0_1",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "preDelay": 2,
+            "isImportant": true,
+            "isRemovable": false
+        },
+        {
+            "subtitleKey": "M_A0_2",
+            "name": "AWACS Eagle Eye",
+            "preDelay": 1,
+            "side": "A",
+            "invokeMethodName": "ShowTip1",
+            "invokeMethodDelay": 4.8
+        },
+        {
+            "subtitleKey": "M_A0_3",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+
+
+        {
+            "subtitleKey": "M_A1_1",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "isImportant": true
+        },
+        {
+            "subtitleKey": "M_F1_2",
+            "name": "Enemy Ground Forces",
+            "side": "E"
+        },
+
+
+        {
+            "subtitleKey": "M_A1_3",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A1_4",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A1_W",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+
+
+        {
+            "subtitleKey": "M_A1_XA",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "isRemovable": false
+        },
+        {
+            "subtitleKey": "M_F1_XA",
+            "name": "Enemy Ground Forces",
+            "side": "E",
+            "isRemovable": false,
+            "invokeMethodName": "FadeOut",
+            "invokeMethodDelay": 4.5
+        },
+
+        
+        {
+            "subtitleKey": "M_F1_N1",
+            "name": "Facility staff",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_F1_N2",
+            "name": "Facility staff",
+            "side": "E"
+        },
+        
+        {
+            "subtitleKey": "M_F1_XT",
+            "name": "Facility staff",
+            "side": "E",
+            "isRemovable": false
+        },
+        
+        {
+            "subtitleKey": "A3_T3",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "A3_T2",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "A3_T1",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+
+        {
+            "subtitleKey": "M_B1_5",
+            "name": "Base Command",
+            "side": "A"
+        },
+
+        {
+            "subtitleKey": "M_A1_6",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "invokeMethodName": "ShowTip2",
+            "invokeMethodDelay": 4.3
+        },
+
+        
+        {
+            "subtitleKey": "M_A1_W1",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A1_W2",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A1_M1",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "invokeMethodName": "GameOver",
+            "invokeMethodDelay": 2
+        },
+        {
+            "subtitleKey": "M_A1_M2",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "invokeMethodName": "GameOver",
+            "invokeMethodDelay": 2.3
+        },
+        {
+            "subtitleKey": "M_A1_XM",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "invokeMethodName": "FadeOut",
+            "invokeMethodDelay": 5.5
+        },
+
+        
+        {
+            "subtitleKey": "M_A1_F1",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A1_F2",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A1_F3",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A1_F4",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+
+        
+        {
+            "subtitleKey": "M_A2_1",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_G2_2",
+            "name": "Enemy Ground Forces",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_A2_3",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "isImportant": true
+        },
+        {
+            "subtitleKey": "M_E12_4",
+            "name": "Enemy Squadron Leader",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_A2_5",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A2_6",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "invokeMethodName": "UpdateMission"
+        },
+        {
+            "subtitleKey": "M_E12_7",
+            "name": "Enemy Squadron Leader",
+            "side": "E"
+        },
+
+
+        {
+            "subtitleKey": "M_A2_D1",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A2_D2",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A2_D3",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A2_D4",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A2_D5",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_A2_L",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+
+        {
+            "subtitleKey": "M_AC_1",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "invokeMethodName": "FadeOut",
+            "invokeMethodDelay": 3
+        },
+        {
+            "subtitleKey": "M_AC_2",
+            "name": "AWACS Eagle Eye",
+            "side": "A"
+        },
+        {
+            "subtitleKey": "M_AC_3",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "invokeMethodName": "FadeOut",
+            "invokeMethodDelay": 3
+        },
+
+
+        {
+            "subtitleKey": "M_AX_1",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "isRemovable": false,
+            "invokeMethodName": "FadeOut",
+            "invokeMethodDelay": 3.5
+        },
+        {
+            "subtitleKey": "M_AX_2",
+            "name": "AWACS Eagle Eye",
+            "side": "A",
+            "isRemovable": false,
+            "invokeMethodName": "FadeOut",
+            "invokeMethodDelay": 3.5
+        },
+
+        
+        {
+            "subtitleKey": "M_E1_1",
+            "name": "Enemy Squadron Leader",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E1_X",
+            "name": "Enemy Squadron Leader",
+            "side": "E",
+            "isRemovable": false
+        },
+        {
+            "subtitleKey": "M_E1_F1",
+            "name": "Enemy Squadron Leader",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E1_F2",
+            "name": "Enemy Squadron Leader",
+            "side": "E"
+        },
+        
+        {
+            "subtitleKey": "M_E2_1",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E2_2",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E2_X",
+            "name": "Enemy Squadron",
+            "side": "E",
+            "isRemovable": false
+        },
+        {
+            "subtitleKey": "M_E2_F1",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E2_F2",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E2_F3",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+
+        
+        {
+            "subtitleKey": "M_E3_1",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E3_2",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E3_3",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E3_X",
+            "name": "Enemy Squadron",
+            "side": "E",
+            "isRemovable": false
+        },
+        {
+            "subtitleKey": "M_E3_F1",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E3_F2",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E3_F3",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+
+        
+        {
+            "subtitleKey": "M_E4_1",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E4_2",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E4_X",
+            "name": "Enemy Squadron",
+            "side": "E",
+            "isRemovable": false
+        },
+        {
+            "subtitleKey": "M_E4_F1",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E4_F2",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E4_F3",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        
+        
+        {
+            "subtitleKey": "M_E5_1",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E5_2",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E5_3",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E5_X",
+            "name": "Enemy Squadron",
+            "side": "E",
+            "isRemovable": false
+        },
+        {
+            "subtitleKey": "M_E5_F1",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E5_F2",
+            "name": "Enemy Squadron",
+            "side": "E"
+        },
+        {
+            "subtitleKey": "M_E5_F3",
+            "name": "Enemy Squadron",
+            "side": "E",
+            "preDelay": 0.1
+        }
+    ]
+}

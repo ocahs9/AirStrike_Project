@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b7dd8db3ba49f489486d29f2e12549, type: 3}
+  m_Name: MainMission
+  m_EditorClassIdentifier: 
+  missionName: Operation Maverick
+  rankScoreCutoff: f055000050460000b036000010270000
+  timeLimit: 600
+  timeBonusPerSecond: 50
+  scriptJson: {fileID: 4900000, guid: 755ec9b96daff55479a4ee182d6c56dc, type: 3}
+  script_EN: {fileID: 4900000, guid: dbc511d9a0075554da5f2fede19a0d85, type: 3}
+  script_KR: {fileID: 4900000, guid: 089d1228b5188224da97a7f6a5867bf2, type: 3}

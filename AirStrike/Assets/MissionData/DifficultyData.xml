@@ -1,0 +1,36 @@
+<data>
+    <difficulty>
+        <easy>
+            <evasionRateMultiplyFactor>0.5</evasionRateMultiplyFactor>
+            <playerHPMultiplyFactor>2</playerHPMultiplyFactor>
+            <aiAircraftTurningForceFactor>0.5</aiAircraftTurningForceFactor>
+            <enemyMissileTrackingRateFactor>0.7</enemyMissileTrackingRateFactor>
+            <enemyMissileBoresightAngleFactor>0.9</enemyMissileBoresightAngleFactor>
+            <enemyMissileTurningForceFactor>0.7</enemyMissileTurningForceFactor>
+        </easy>
+        <normal>
+            <evasionRateMultiplyFactor>1</evasionRateMultiplyFactor>
+            <playerHPMultiplyFactor>1</playerHPMultiplyFactor>
+            <aiAircraftTurningForceFactor>1</aiAircraftTurningForceFactor>
+            <enemyMissileTrackingRateFactor>1</enemyMissileTrackingRateFactor>
+            <enemyMissileBoresightAngleFactor>1</enemyMissileBoresightAngleFactor>
+            <enemyMissileTurningForceFactor>1</enemyMissileTurningForceFactor>
+        </normal>
+        <hard>
+            <evasionRateMultiplyFactor>1.5</evasionRateMultiplyFactor>
+            <playerHPMultiplyFactor>0.67</playerHPMultiplyFactor>
+            <aiAircraftTurningForceFactor>1.2</aiAircraftTurningForceFactor>
+            <enemyMissileTrackingRateFactor>1.1</enemyMissileTrackingRateFactor>
+            <enemyMissileBoresightAngleFactor>1.1</enemyMissileBoresightAngleFactor>
+            <enemyMissileTurningForceFactor>1.1</enemyMissileTurningForceFactor>
+        </hard>
+        <ace>
+            <evasionRateMultiplyFactor>2</evasionRateMultiplyFactor>
+            <playerHPMultiplyFactor>0.1</playerHPMultiplyFactor>
+            <aiAircraftTurningForceFactor>1.5</aiAircraftTurningForceFactor>
+            <enemyMissileTrackingRateFactor>1.2</enemyMissileTrackingRateFactor>
+            <enemyMissileBoresightAngleFactor>1.2</enemyMissileBoresightAngleFactor>
+            <enemyMissileTurningForceFactor>1.1</enemyMissileTurningForceFactor>
+        </ace>
+    </difficulty>
+</data>
